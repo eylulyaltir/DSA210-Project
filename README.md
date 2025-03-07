@@ -7,9 +7,9 @@ I am Eylül Yaltır and for my DSA210 Term Project I want to analyze, in a data-
 **Motivation**
 
 Weather conditions influence human behaviour including spending habits. When the humidity is high, when it is raining or snowing etc. our behaviours and decisions change depending on these conditions. Understanding these dependencies can contribute to a better understanding of personal finance management and behavioural economics. To summarize, with this project I hope to:
-     - Find the relationship between the weather conditions and the potential correlation of these conditions with my personal spendings.
-     - By categorizing my spendings, uncover correlations such as reduced transportation costs during extreme cold.
-     - By statistical modeling, identify trends and if possible predict future spendings according to the weather forecasts.
+  - Find the relationship between the weather conditions and the potential correlation of these conditions with my personal spendings.
+  - By categorizing my spendings, uncover correlations such as reduced transportation costs during extreme cold.
+  - By statistical modeling, identify trends and if possible predict future spendings according to the weather forecasts.
 
 **Project Goal**
 
