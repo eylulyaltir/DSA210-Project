@@ -17,14 +17,32 @@ This project aims to analyze the impact of weather conditions on personal spendi
   - **H0**: Weather conditions have no significant impact on personal spending behaviour.
   - **H1**: Weather conditions significantly influence personal spending behaviour (e.g. reduced outdoor spending in extreme weather conditions)
 
-**Data Sources**
+**Data Sources and Collection**
 
 This project utilizes two primary data sources: personal bank transaction records and weather data. 
 
-Firstly, to provide transaction records for this project I will use my own Akbank spending history. Using my banking app I am able to access to my transactions for the required time period in csv format. The problem that I came across in this step is the categorization of the spendings but because I will use the data of a manageable time period I can manually enter the categories in the csv file. 
+Firstly, to provide transaction records for this project I will use my own Akbank spending history. Using my banking app I am able to access to my transactions for the required time period in csv format. The problem that I came across in this step is the categorization of the spendings but because I will use the data of a manageable time period I can manually enter the categories in the csv file. At the end of this data labeling I will have three main variables in my csv file: Date, amount of payment and spending category.
 
 Secondly, I need to access to the weather data of the specified time period. After doing some research for the most efficient weather site for this project, I decided to use Visual Crossing. This site allows the user to download the historical weather conditions as a dataset and it includes all the crucial variables such as temperature, wind speed, "feels like" temperature etc. 
   - The link to this website is: [Weather Data](https://www.visualcrossing.com/weather-history/%C4%B0stanbul,%20T%C3%BCrkiye/metric/last15days/)
+
+**Data Analysis**
+
+To analyze the data for this project I have some steps:
+
+  1. Cleaning and labeling (if needed) the data to conduct this project in the most efficient way possible.
+  2. I will use descriptive statistics to summarize transaction patterns across different weather conditions and use visualisations such as scatter-plots, time-series to see the change more apparently.
+  3. To test this hypothesis I will use T-tests to compare differences on rainy and sunny days, evaluate variations in spendings, and use chi-square tests to analyze the data more efficiently.
+  4. I will try to predict spendings depending on weather forecasts using ML methods.
+
+**Limitations and Future Work**
+
+There are a few limitations to this project. Firstly because the main data of the project is my own spendings we can not fully analyze how external conditions affect finance management. I only spend money to specific categories and because of this we are not able to observe consumer trends efficiently. By broadening this research we can understand consumer trends more efficiently. This may help companies, brands or even coffee shops to predict their sale beforehand and create new strategies to increase the predictions.
+
+**Conclusion**
+
+This project explores the relationship between weather conditions and personal spending habits by analyzing my own bank transactions and weather records from Visual Crossing. The findings of this project can help us learn how external factors influence financial decisions.  
+
   
 
 
