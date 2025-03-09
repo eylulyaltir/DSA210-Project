@@ -1,6 +1,6 @@
 # DSA210-Project
 
-**Analyzing the Impact of Weather on my Personal Spending**
+**Analyzing the Impact of Weather on my Personal Spendings**
 
 I am Eylül Yaltır and for my DSA210 Term Project I want to analyze, in a data-driven approach, the relationship between the weather and my spendings using meteorological data and my bank transactions.
 
@@ -41,7 +41,7 @@ There are a few limitations to this project. Firstly because the main data of th
 
 **Conclusion**
 
-This project explores the relationship between weather conditions and personal spending habits by analyzing my own bank transactions and weather records from Visual Crossing. The findings of this project can help us learn how external factors influence financial decisions.  
+This project explores the relationship between weather conditions and personal spending habits by analyzing my own bank transactions and weather records from Visual Crossing. The findings of this project can help us learn how external factors influence financial decisions. Through data analysis, hypothesis testing, and machine learning models we can identify key spending habits, uncover their correlation with weather conditions and search for a difference and variety in the categories of the payments. This project can help us manage our financial decisions, personal budgets and also we can be able to predict our future spendings based on weather forecasts. While this conclusion can help us personally, it can also help companies and businesses when it comes to selling strategies.
 
   
 
