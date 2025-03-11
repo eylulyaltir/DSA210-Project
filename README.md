@@ -19,7 +19,7 @@ This project aims to analyze the impact of weather conditions on personal spendi
 
 This project utilizes two primary data sources: personal bank transaction records and weather data. 
 
-Firstly, to provide transaction records for this project I will use my own Akbank spending history. Using my banking app I am able to access to my transactions for the required time period in csv format. The problem that I came across in this step is the categorization of the spendings but because I will use the data of a manageable time period I can manually enter the categories in the csv file. At the end of this data labeling I will have three main variables in my csv file: Date, amount of payment and spending category.
+Firstly, to provide transaction records for this project I will use my own spending history. Using my banking app I am able to access to my transactions for the required time period in csv format. The problem that I came across in this step is the categorization of the spendings but because I will use the data of a manageable time period I can manually enter the categories in the csv file. At the end of this data labeling I will have three main variables in my csv file: Date, amount of payment and spending category.
 
 Secondly, I need to access to the weather data of the specified time period. After doing some research for the most efficient weather site for this project, I decided to use Visual Crossing. This site allows the user to download the historical weather conditions as a dataset and it includes all the crucial variables such as temperature, wind speed, "feels like" temperature etc. 
   - The link to this website is: [Weather Data](https://www.visualcrossing.com/weather-history/%C4%B0stanbul,%20T%C3%BCrkiye/metric/last15days/)
