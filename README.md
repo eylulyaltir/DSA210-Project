@@ -1,6 +1,6 @@
 # DSA210-Project
 
-**Analyzing the Impact of Weather on my Personal Spendings**
+**Analyzing the Impact of Weather on my Personal Spending Habits**
 
 I am Eylül Yaltır and for my DSA210 Term Project I want to analyze, in a data-driven approach, the relationship between the weather and my spendings using meteorological data and my bank transactions.
 
@@ -13,9 +13,7 @@ Weather conditions influence human behaviour including spending habits. When the
 
 **Project Goal**
 
-This project aims to analyze the impact of weather conditions on personal spending habits by examining bank transactions with related meteorological data. By examining this relationship we can gain an insight into our dependencies to weather conditions and in a more detailed approach, if we catagorize the transaction data we can identify which habit is more visible on a specific weather. Through data visualization and modeling this project can show the spending trends and help us manage our personal finance better and predict our future spending which will help us optimize our financial decisions and budgets. As a result I will test:
-  - **H0**: Weather conditions have no significant impact on personal spending behaviour.
-  - **H1**: Weather conditions significantly influence personal spending behaviour (e.g. reduced outdoor spending in extreme weather conditions)
+This project aims to analyze the impact of weather conditions on personal spending habits by examining bank transactions with related meteorological data. By examining this relationship we can gain an insight into our dependencies to weather conditions and in a more detailed approach, if we catagorize the transaction data we can identify which habit is more visible on a specific weather. Through data visualization and modeling this project can show the spending trends and help us manage our personal finance better and predict our future spendings which will help us optimize our financial decisions and budgets. 
 
 **Data Sources and Collection**
 
@@ -32,12 +30,12 @@ To analyze the data for this project I have some steps:
 
   1. Cleaning and labeling (if needed) the data to conduct this project in the most efficient way possible.
   2. I will use descriptive statistics to summarize transaction patterns across different weather conditions and use visualisations such as scatter-plots, time-series to see the change more apparently.
-  3. To test this hypothesis I will use T-tests to compare differences on rainy and sunny days, evaluate variations in spendings, and use chi-square tests to analyze the data more efficiently.
-  4. I will try to predict spendings depending on weather forecasts using ML methods.
+  3. To test this hypothesis I will use T-tests to compare differences on for instance rainy and sunny days, evaluate variations in spendings, and use chi-square tests to analyze the data more efficiently.
+  4. I will try to predict spendings and its category depending on weather forecasts using ML methods.
 
 **Limitations and Future Work**
 
-There are a few limitations to this project. Firstly because the main data of the project is my own spendings we can not fully analyze how external conditions affect finance management. I only spend money to specific categories and because of this we are not able to observe consumer trends efficiently. By broadening this research we can understand consumer trends more efficiently. This may help companies, brands or even coffee shops to predict their sale beforehand and create new strategies to increase the predictions.
+There are a few limitations to this project. Firstly because the main data of the project is my own spendings we can not fully analyze how external conditions affect finance management. I only spend money to specific categories and because of this we are not able to observe consumer trends efficiently. By broadening this research we can understand consumer trends more efficiently. This may help companies, brands or even coffee shops to predict their sales beforehand and create new strategies (discounts, campaigns, etc.) to increase the predictions.
 
 **Conclusion**
 
