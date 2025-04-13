@@ -9,6 +9,7 @@ I am Eylül Yaltır and for my DSA210 Term Project I want to analyze, in a data-
 Weather conditions influence human behaviour including spending habits. When the humidity is high, when it is raining or snowing etc. our behaviours and decisions change depending on these conditions. Understanding these dependencies can contribute to a better understanding of personal finance management and behavioural economics. To summarize, with this project I hope to:
   - Find the relationship between the weather conditions and the potential correlation of these conditions with my personal spendings.
   - By categorizing my spendings, uncover correlations such as reduced transportation costs during extreme cold.
+  - By categorizing my spendings whether they are in-campus or not, analyze how did the weather affected the times I went out.
   - By statistical modeling, identify trends and if possible predict future spendings according to the weather forecasts.
 
 **Project Goal**
@@ -19,7 +20,7 @@ This project aims to analyze the impact of weather conditions on personal spendi
 
 This project utilizes two primary data sources: personal bank transaction records and weather data. 
 
-Firstly, to provide transaction records for this project I will use my own spending history. Using my banking app I am able to access to my transactions for the required time period in csv format. The problem that I came across in this step is the categorization of the spendings but because I will use the data of a manageable time period I can manually enter the categories in the csv file. At the end of this data labeling I will have three main variables in my csv file: Date, amount of payment and spending category.
+Firstly, to provide transaction records for this project I will use my own spending history. Using my banking app I am able to access to my transactions for the required time period in csv format. The problem that I came across in this step is the categorization of the spendings but because I will use the data of a manageable time period I can manually enter the categories in the csv file. At the end of this data labeling I will have three main variables in my csv file: Date, amount of payment and spending category, and whether the spending is done on campus.
 
 Secondly, I need to access to the weather data of the specified time period. After doing some research for the most efficient weather site for this project, I decided to use Visual Crossing. This site allows the user to download the historical weather conditions as a dataset and it includes all the crucial variables such as temperature, wind speed, "feels like" temperature etc. 
   - The link to this website is: [Weather Data](https://www.visualcrossing.com/weather-history/%C4%B0stanbul,%20T%C3%BCrkiye/metric/last15days/)
@@ -31,7 +32,7 @@ To analyze the data for this project I have some steps:
   1. Cleaning and labeling (if needed) the data to conduct this project in the most efficient way possible.
   2. I will use descriptive statistics to summarize transaction patterns across different weather conditions and use visualisations such as scatter-plots, time-series to see the change more apparently.
   3. To test this hypothesis I will use T-tests to compare differences on for instance rainy and sunny days, evaluate variations in spendings, and use chi-square tests to analyze the data more efficiently.
-  4. I will try to predict spendings and its category depending on weather forecasts using ML methods.
+  5. I will try to predict spendings and its category depending on weather forecasts using ML methods.
 
 **Limitations and Future Work**
 
