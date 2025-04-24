@@ -1,0 +1,124 @@
+Date,Payment,Left_Budget,Category,Campus_Spendings,temp,humidity,feelslike,windspeed,conditions
+2025-04-02,-199.9,,Entertainment Subscriptions,0,10.7,88.6,9.9,25.5,Partially cloudy
+2025-04-02,-40.0,,Groceries,1,10.7,88.6,9.9,25.5,Partially cloudy
+2025-04-01,-255.0,,Coffee&Cafes,0,12.4,84.1,12.3,26.1,"Rain, Partially cloudy"
+2025-04-01,-32.95,,Groceries,0,12.4,84.1,12.3,26.1,"Rain, Partially cloudy"
+2025-04-01,-13.5,,Groceries,0,12.4,84.1,12.3,26.1,"Rain, Partially cloudy"
+2025-04-01,-170.0,,Coffee&Cafes,0,12.4,84.1,12.3,26.1,"Rain, Partially cloudy"
+2025-04-01,-155.0,,Dining Out,0,12.4,84.1,12.3,26.1,"Rain, Partially cloudy"
+2025-04-01,-211.35,,Groceries,0,12.4,84.1,12.3,26.1,"Rain, Partially cloudy"
+2025-03-31,-80.0,,Dining Out,0,12.3,82.6,12.0,17.7,"Rain, Partially cloudy"
+2025-03-31,-270.0,,Dining Out,0,12.3,82.6,12.0,17.7,"Rain, Partially cloudy"
+2025-03-30,-51.0,,Groceries,1,12.0,82.9,12.0,15.1,"Rain, Partially cloudy"
+2025-03-28,-218.0,107.35,Coffee&Cafes,1,12.8,76.3,12.8,33.3,"Rain, Overcast"
+2025-03-28,-295.0,325.35,Dining Out,1,12.8,76.3,12.8,33.3,"Rain, Overcast"
+2025-03-27,-310.0,620.35,Dining Out,1,14.4,62.1,14.4,21.3,Partially cloudy
+2025-03-27,-142.0,930.35,Coffee&Cafes,0,14.4,62.1,14.4,21.3,Partially cloudy
+2025-03-27,-230.0,,Dining Out,1,14.4,62.1,14.4,21.3,Partially cloudy
+2025-03-27,-30.0,,Dining Out,1,14.4,62.1,14.4,21.3,Partially cloudy
+2025-03-26,-215.0,,Dining Out,1,15.5,63.1,15.5,6.2,Partially cloudy
+2025-03-26,,,Investment,0,15.5,63.1,15.5,6.2,Partially cloudy
+2025-03-26,-140.0,,Dining Out,1,15.5,63.1,15.5,6.2,Partially cloudy
+2025-03-26,-280.0,,Dining Out,1,15.5,63.1,15.5,6.2,Partially cloudy
+2025-03-26,-105.0,,Coffee&Cafes,1,15.5,63.1,15.5,6.2,Partially cloudy
+2025-03-26,-15.5,,Groceries,1,15.5,63.1,15.5,6.2,Partially cloudy
+2025-03-25,-170.0,,Dining Out,1,16.3,52.7,16.3,13.9,Partially cloudy
+2025-03-25,-235.0,,Dining Out,1,16.3,52.7,16.3,13.9,Partially cloudy
+2025-03-25,-20.0,,Groceries,1,16.3,52.7,16.3,13.9,Partially cloudy
+2025-03-24,-260.0,,Dining Out,1,14.6,64.2,14.6,15.4,"Rain, Partially cloudy"
+2025-03-24,-254.0,,Coffee&Cafes,1,14.6,64.2,14.6,15.4,"Rain, Partially cloudy"
+2025-03-24,-250.0,,Dining Out,1,14.6,64.2,14.6,15.4,"Rain, Partially cloudy"
+2025-03-23,-210.0,,Transportation,0,11.0,59.1,11.0,7.5,Partially cloudy
+2025-03-23,-279.99,,Dining Out,0,11.0,59.1,11.0,7.5,Partially cloudy
+2025-03-23,-320.0,,Dining Out,0,11.0,59.1,11.0,7.5,Partially cloudy
+2025-03-23,-89.0,,Transportation,0,11.0,59.1,11.0,7.5,Partially cloudy
+2025-03-23,-210.0,,Transportation,0,11.0,59.1,11.0,7.5,Partially cloudy
+2025-03-22,-240.0,,Dining Out,1,7.3,67.0,6.9,15.5,Clear
+2025-03-22,-80.0,,Coffee&Cafes,1,7.3,67.0,6.9,15.5,Clear
+2025-03-22,-185.0,,Dining Out,1,7.3,67.0,6.9,15.5,Clear
+2025-03-21,-260.0,,Dining Out,1,7.5,70.2,6.8,18.3,"Rain, Partially cloudy"
+2025-03-21,-114.0,,Coffee&Cafes,1,7.5,70.2,6.8,18.3,"Rain, Partially cloudy"
+2025-03-21,-158.0,,Coffee&Cafes,1,7.5,70.2,6.8,18.3,"Rain, Partially cloudy"
+2025-03-20,-132.0,,Entertainment Subscriptions,0,6.1,75.0,4.6,20.9,"Rain, Partially cloudy"
+2025-03-20,-102.0,,Coffee&Cafes,1,6.1,75.0,4.6,20.9,"Rain, Partially cloudy"
+2025-03-20,-120.0,,Dining Out,1,6.1,75.0,4.6,20.9,"Rain, Partially cloudy"
+2025-03-20,-235.0,,Dining Out,1,6.1,75.0,4.6,20.9,"Rain, Partially cloudy"
+2025-03-20,-350.0,,Event Tickets,0,6.1,75.0,4.6,20.9,"Rain, Partially cloudy"
+2025-03-19,-530.0,,Dining Out,1,5.1,58.6,0.8,37.9,"Rain, Partially cloudy"
+2025-03-19,-15.0,,Groceries,0,5.1,58.6,0.8,37.9,"Rain, Partially cloudy"
+2025-03-19,-335.0,,Coffee&Cafes,1,5.1,58.6,0.8,37.9,"Rain, Partially cloudy"
+2025-03-18,-18.0,,Groceries,1,6.4,88.3,2.8,35.7,"Rain, Partially cloudy"
+2025-03-18,-130.0,,Transportation,0,6.4,88.3,2.8,35.7,"Rain, Partially cloudy"
+2025-03-18,-259.0,,Coffee&Cafes,1,6.4,88.3,2.8,35.7,"Rain, Partially cloudy"
+2025-03-17,-305.0,,Dining Out,1,13.8,71.9,13.7,19.8,"Rain, Partially cloudy"
+2025-03-17,-260.0,,Dining Out,1,13.8,71.9,13.7,19.8,"Rain, Partially cloudy"
+2025-03-17,-163.0,,Coffee&Cafes,1,13.8,71.9,13.7,19.8,"Rain, Partially cloudy"
+2025-03-17,-254.0,,Coffee&Cafes,1,13.8,71.9,13.7,19.8,"Rain, Partially cloudy"
+2025-03-16,-299.0,,Shopping,0,21.5,40.7,21.5,14.3,Partially cloudy
+2025-03-16,-260.0,,Dining Out,1,21.5,40.7,21.5,14.3,Partially cloudy
+2025-03-16,-115.0,,Coffee&Cafes,1,21.5,40.7,21.5,14.3,Partially cloudy
+2025-03-16,-257.0,,Coffee&Cafes,1,21.5,40.7,21.5,14.3,Partially cloudy
+2025-03-15,-102.0,,Coffee&Cafes,1,18.9,52.8,18.9,10.5,Partially cloudy
+2025-03-15,-125.0,,Dining Out,1,18.9,52.8,18.9,10.5,Partially cloudy
+2025-03-15,-310.0,,Dining Out,1,18.9,52.8,18.9,10.5,Partially cloudy
+2025-03-15,-114.0,,Coffee&Cafes,1,18.9,52.8,18.9,10.5,Partially cloudy
+2025-03-15,-2.51,,Transportation,0,18.9,52.8,18.9,10.5,Partially cloudy
+2025-03-14,-16.0,,Groceries,0,19.2,43.6,19.2,9.5,Partially cloudy
+2025-03-14,-80.0,,Coffee&Cafes,1,19.2,43.6,19.2,9.5,Partially cloudy
+2025-03-14,-80.0,,Coffee&Cafes,1,19.2,43.6,19.2,9.5,Partially cloudy
+2025-03-14,-240.0,,Dining Out,1,19.2,43.6,19.2,9.5,Partially cloudy
+2025-03-14,-200.0,,Dining Out,1,19.2,43.6,19.2,9.5,Partially cloudy
+2025-03-14,-255.0,,Dining Out,0,19.2,43.6,19.2,9.5,Partially cloudy
+2025-03-13,-119.0,,Coffee&Cafes,1,18.5,46.2,18.5,10.9,Partially cloudy
+2025-03-13,-103.5,,Transportation,0,18.5,46.2,18.5,10.9,Partially cloudy
+2025-03-13,-620.0,,Dining Out,1,18.5,46.2,18.5,10.9,Partially cloudy
+2025-03-13,-130.0,,Dining Out,1,18.5,46.2,18.5,10.9,Partially cloudy
+2025-03-12,-8.0,,Groceries,0,16.9,53.6,16.9,15.0,Partially cloudy
+2025-03-12,-115.0,,Dining Out,1,16.9,53.6,16.9,15.0,Partially cloudy
+2025-03-12,-113.0,,Dining Out,1,16.9,53.6,16.9,15.0,Partially cloudy
+2025-03-12,-499.99,,Shopping,0,16.9,53.6,16.9,15.0,Partially cloudy
+2025-03-12,-102.5,,Transportation,0,16.9,53.6,16.9,15.0,Partially cloudy
+2025-03-12,-200.0,,Transportation,0,16.9,53.6,16.9,15.0,Partially cloudy
+2025-03-12,-129.0,,Coffee&Cafes,1,16.9,53.6,16.9,15.0,Partially cloudy
+2025-03-12,-130.0,,Dining Out,1,16.9,53.6,16.9,15.0,Partially cloudy
+2025-03-12,-120.0,,Shopping,0,16.9,53.6,16.9,15.0,Partially cloudy
+2025-03-11,-80.0,,Transportation,0,14.0,63.8,14.0,12.6,Partially cloudy
+2025-03-11,-130.0,,Dining Out,1,14.0,63.8,14.0,12.6,Partially cloudy
+2025-03-11,-150.0,,Coffee&Cafes,1,14.0,63.8,14.0,12.6,Partially cloudy
+2025-03-11,-70.0,,Shopping,0,14.0,63.8,14.0,12.6,Partially cloudy
+2025-03-11,-189.0,,Transportation,0,14.0,63.8,14.0,12.6,Partially cloudy
+2025-03-10,-50.0,,Coffee&Cafes,1,10.4,77.8,10.4,10.6,Clear
+2025-03-10,-70.0,,Coffee&Cafes,1,10.4,77.8,10.4,10.6,Clear
+2025-03-10,-100.0,,Dining Out,1,10.4,77.8,10.4,10.6,Clear
+2025-03-10,-16.0,,Groceries,1,10.4,77.8,10.4,10.6,Clear
+2025-03-10,-200.0,,Coffee&Cafes,1,10.4,77.8,10.4,10.6,Clear
+2025-03-09,-390.0,,Coffee&Cafes,0,8.3,86.1,7.7,12.1,Partially cloudy
+2025-03-09,-650.0,,Dining Out,0,8.3,86.1,7.7,12.1,Partially cloudy
+2025-03-09,-315.0,,Dining Out,1,8.3,86.1,7.7,12.1,Partially cloudy
+2025-03-09,-18.0,,Coffee&Cafes,1,8.3,86.1,7.7,12.1,Partially cloudy
+2025-03-09,-220.0,,Coffee&Cafes,1,8.3,86.1,7.7,12.1,Partially cloudy
+2025-03-08,-75.0,,Coffee&Cafes,1,7.6,86.2,5.9,23.6,Partially cloudy
+2025-03-08,-150.0,,Dining Out,1,7.6,86.2,5.9,23.6,Partially cloudy
+2025-03-08,-171.75,,Transportation,0,7.6,86.2,5.9,23.6,Partially cloudy
+2025-03-08,-235.0,,Dining Out,1,7.6,86.2,5.9,23.6,Partially cloudy
+2025-03-07,-120.0,,Coffee&Cafes,1,7.2,63.0,5.5,24.0,Clear
+2025-03-07,-50.0,,Coffee&Cafes,1,7.2,63.0,5.5,24.0,Clear
+2025-03-07,-80.0,,Coffee&Cafes,1,7.2,63.0,5.5,24.0,Clear
+2025-03-07,-189.5,,Dining Out,1,7.2,63.0,5.5,24.0,Clear
+2025-03-07,-205.0,,Coffee&Cafes,1,7.2,63.0,5.5,24.0,Clear
+2025-03-06,-65.0,,Coffee&Cafes,0,6.9,74.1,6.0,16.4,Partially cloudy
+2025-03-06,-215.0,,Dining Out,1,6.9,74.1,6.0,16.4,Partially cloudy
+2025-03-06,-55.0,,Dining Out,1,6.9,74.1,6.0,16.4,Partially cloudy
+2025-03-05,-65.0,,Coffee&Cafes,1,6.4,74.3,3.8,21.8,Clear
+2025-03-04,-229.5,,Dining Out,1,6.1,73.8,2.6,27.0,"Rain, Partially cloudy"
+2025-03-04,-125.0,,Coffee&Cafes,1,6.1,73.8,2.6,27.0,"Rain, Partially cloudy"
+2025-03-04,-240.0,,Coffee&Cafes,1,6.1,73.8,2.6,27.0,"Rain, Partially cloudy"
+2025-03-03,-120.0,,Coffee&Cafes,1,6.2,81.0,3.0,22.2,"Rain, Partially cloudy"
+2025-03-03,-80.0,,Dining Out,0,6.2,81.0,3.0,22.2,"Rain, Partially cloudy"
+2025-03-03,-50.0,,Transportation,0,6.2,81.0,3.0,22.2,"Rain, Partially cloudy"
+2025-03-03,-140.0,,Dining Out,1,6.2,81.0,3.0,22.2,"Rain, Partially cloudy"
+2025-03-03,-199.9,,Entertainment Subscriptions,0,6.2,81.0,3.0,22.2,"Rain, Partially cloudy"
+2025-03-02,-200.0,,Dining Out,1,7.1,83.9,6.0,25.7,"Rain, Partially cloudy"
+2025-03-02,-105.0,,Coffee&Cafes,1,7.1,83.9,6.0,25.7,"Rain, Partially cloudy"
+2025-03-02,-50.0,,Transportation,0,7.1,83.9,6.0,25.7,"Rain, Partially cloudy"
+2025-03-02,-102.5,,Transportation,0,7.1,83.9,6.0,25.7,"Rain, Partially cloudy"
