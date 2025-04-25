@@ -14,6 +14,9 @@ Weather conditions influence human behaviour including spending habits. When the
 
 **Project Goal**
 
+**Null Hypothesis (H₀):** There is no statistically significant relationship between weather conditions and my spending behavior.
+**Alternative Hypothesis (H₁):** There is a statistically significant relationship between weather conditions and my spending behavior.
+
 This project aims to analyze the impact of weather conditions on personal spending habits by examining bank transactions with related meteorological data. By examining this relationship we can gain an insight into our dependencies to weather conditions and in a more detailed approach, if we catagorize the transaction data we can identify which habit is more visible on a specific weather. Through data visualization and modeling this project can show the spending trends and help us manage our personal finance better and predict our future spendings which will help us optimize our financial decisions and budgets. 
 
 **Data Sources and Collection**
