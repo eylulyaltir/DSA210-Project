@@ -38,6 +38,10 @@ To analyze the data for this project I have some steps:
   3. To test this hypothesis I will use T-tests to compare differences on for instance rainy and sunny days, evaluate variations in spendings, and use chi-square tests to analyze the data more efficiently.
   5. I will try to predict spendings and its category depending on weather forecasts using ML methods.
 
+**Feature Selection in ML**
+
+In my machine learning model, I selected day_of_week and is_weekend as the primary features to predict daily spending. These variables were chosen based on exploratory data analysis, which showed clear patterns in how spending behavior varied across different days of the week, with weekends often associated with higher and more variable expenses. By encoding these time-based factors, the model could effectively capture routine behavioral trends without relying on more complex or external features, making the predictions interpretable, efficient, and grounded in observable patterns.
+
 **Limitations and Future Work**
 
 There are a few limitations to this project. Firstly because the main data of the project is my own spendings we can not fully analyze how external conditions affect finance management. I only spend money to specific categories and because of this we are not able to observe consumer trends efficiently. By broadening this research we can understand consumer trends more efficiently. This may help companies, brands or even coffee shops to predict their sales beforehand and create new strategies (discounts, campaigns, etc.) to increase the predictions.
