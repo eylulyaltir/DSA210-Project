@@ -50,6 +50,11 @@ There are a few limitations to this project. Firstly because the main data of th
 
 This project explores the relationship between weather conditions and personal spending habits by analyzing my own bank transactions and weather records from Visual Crossing. The findings of this project can help us learn how external factors influence financial decisions. Through data analysis, hypothesis testing, and machine learning models we can identify key spending habits, uncover their correlation with weather conditions and search for a difference and variety in the categories of the payments. This project can help us manage our financial decisions, personal budgets and also we can be able to predict our future spendings based on weather forecasts. While this conclusion can help us personally, it can also help companies and businesses when it comes to selling strategies.
 
+**Final Remarks and Project Outcomes**
+
+In this project, I analyzed the impact of weather conditions on my personal spending habits using a data-driven approach. I began by collecting and cleaning transaction and weather datasets, merging them based on date, and enriching them with contextual features such as temperature categories, rainfall presence, and day-of-week indicators. Through exploratory data analysis and statistical tests—including ANOVA, t-tests, and chi-square—I found no statistically significant relationship between weather variables (like temperature or rain) and my overall spending patterns. However, by categorizing spending and introducing machine learning models (Linear Regression, KNN, and Random Forest), I trained algorithms to predict future spending based on enriched weather forecasts. The predictions from these models were compared, and Random Forest emerged as the most stable and consistent performer. While the models suggest that short-term weather may not have a strong predictive power over personal spending in this dataset, the project successfully demonstrates the potential of combining behavioral data with environmental factors for financial forecasting, and offers a strong foundation for future research with broader datasets or more complex feature engineering.
+
+
   
 
 
